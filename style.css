@@ -109,7 +109,7 @@ aside > ul {
 aside >p{
     line-height: 2em;
     text-align: justify;
-    padding: auto;
+    padding: 10px;
     text-indent: 30px;
     
 }
